@@ -4,7 +4,7 @@
 menu_title: Home
 
 # URL of the Home page image
-index_cover: https://upload.wikimedia.org/wikipedia/commons/7/71/Choloepus_hoffmanni_(Puerto_Viejo,_CR)_crop.jpg
+index_cover: /img/home-bg.jpg
 
 # Default post title
 default_post_title: Untitled
