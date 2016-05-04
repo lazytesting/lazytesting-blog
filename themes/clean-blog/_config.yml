@@ -1,0 +1,28 @@
+# Header
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: Home
+
+# URL of the Home page image
+index_cover: https://upload.wikimedia.org/wikipedia/commons/7/71/Choloepus_hoffmanni_(Puerto_Viejo,_CR)_crop.jpg
+
+# Default post title
+default_post_title: Untitled
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+twitter_url: https://twitter.com/LazyTesting
+linkedin_url: https://nl.linkedin.com/in/maartengroeneweg
+github_url: https://github.com/lazytesting

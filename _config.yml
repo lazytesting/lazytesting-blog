@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: LazyTesting.com
-subtitle: Be smart, test lazy
+title: LazyTesting
+subtitle: "&#8220;Be smart, test lazy&#8221;"
 description: My blog about automated testing
-author: Maarten Groeneweg
+author: LazyTesting
 language: en
 timezone: Europe/Amsterdam
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: clean-blog
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
